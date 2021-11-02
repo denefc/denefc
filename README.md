@@ -1,5 +1,3 @@
-https://github-readme-codewars-stats.herokuapp.com/api/?username=denefc&badge&colormode=dark_mode
-
 
 <h1 align="center">Hello there 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
