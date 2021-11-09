@@ -1,3 +1,6 @@
+<div align="center"> 
+<img src="https://www.codewars.com/users/denefc/badges/large">
+</div>
 
 <h1 align="center">Hello there 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
